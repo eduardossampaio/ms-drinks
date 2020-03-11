@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">MS-Drinks</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="challenges">
+        <item>Todas as mulheres bebem</item>
+        <item>Segure a mão do jogador à sua direita até a próxima rodada</item>
+        <item>Conta duas verdades e uma mentira, o jogador à direita deve dizer qual é a mentira, se ele acertar você bebe, se ele errar ele bebe</item>
+        <item>O mestre toda um shot</item>
+        <item>Quem já ganhou algum troféu, bebe</item>
+        <item>Você não poderá chamar mais nenhum jogador pelo seu nome, sobrenome ou apelido antigo até o final do jogo, apenas novos apelidos ou termos genéricos, toda vez que esquecer deverá beber</item>
+        <item>Toda vez que alguém beber, você deverá imitar uma vaca até a próxima rodada</item>
+        <item>Toda vez que você precisar falar algo até a próxima rodada, você deverá beber antes</item>
+        <item>Quem tiver usando anel, deverá beber</item>
+        <item>Até essa carta aparecer de novo, todos os jogadores deverão chamar você de mestre supremo, se alguém esquecer deverá beber</item>
+        <item>O dono deste aparelho deve beber</item>
+        <item>Todos os jogadores que possuem uma cicatriz, deverão beber</item>
+        <item>Mande uma mensagem de áudio ou ligue para uma pessoa aleatória e cante parabéns pra você</item>
+        <item>Você e o jogador à sua direita deverão beber e tirar uma foto juntos</item>
+        <item>Todos os homens bebem</item>
+        <item>Quem tiver mais coisas nos bolsos bebem</item>
+        <item>Quem nasceu entre julho e dezembro deverão beber</item>
+        <item>Se o mestre já pintou o cabelo, ele deverá beber</item>
+        <item>Todos os jogadores que já resolveram o cubo mágico deverão beber</item>
+        <item>Todos os jogadores sem barba deverão beber</item>
+        <item>O mais novo da roda bebe</item>
+        <item>O mais velho da roda bebe</item>
+        <item>Se a idade do mestre for par, ele deverá beber</item>
+        <item>Se a idade do mestre for ímpar, ele deverá beber</item>
+        <item>O mais alto da roda bebe</item>
+        <item>O mais baixo da roda bebe</item>
+        <item>Até a próxima rodada você deverá imitar o jogador à sua direita, se esquecer você deverá beber</item>
+        <item>Todos os jogadores deverão tocar em você, o ultimo que tocar deverá beber</item>
+        <item>Diga uma característica que você gosta de cada um na roda</item>
+        <item>O mestre toma dois shots</item>
+        <item>Quem estiver de saia deve beber</item>
+        <item>O jogador que tiver mais carga no celular, deverá beber</item>
+        <item>Usuários da Vivo deverão beber</item>
+        <item>Usuários da Claro deverão beber</item>
+        <item>Usuários da Tim deverão beber</item>
+        <item>Usuários da Oi deverão beber</item>
+        <item>Todos os jogadores que estão namorando deverão beber</item>
+        <item>Todos os jogadores que estão solteiros deverão beber</item>
+        <item>Simule um pedido de casamento para a pessoa que está a sua frente</item>
+        <item>Já teve ranço de alguém da roda, bebe</item>
+        <item>Nome da ultima pessoa que ficou sem ser da roda, se não lembrar bebe</item>
+        <item>Escolha uma pessoa da roda e fale sobre ela</item>
+        <item>Quem estiver de vestido deve beber</item>
+        <item>Quem tem tatuagem, bebe</item>
+        <item>Escolha dois jogadores para beber uma dose</item>
+        <item>Toda frase que você falar deverá acabar com \"na cama\"</item>
+        <item>Já se chateou com alguém da roda, se sim os dois bebem</item>
+        <item>Escolha alguém da roda e peça para ela falar sobre alguém que você pedir, a pessoa bebe</item>
+        <item>Qual a primeira impressão que teve da pessoa à sua direita, os dois bebem</item>
+        <item>Quem tem menos contatos no WhatsApp deverá beber</item>
+        <item>Você deverá tomar duas doses e dar 3 giros</item>
+        <item>Quem estiver de calça deve beber</item>
+        <item>Você deverá realizar 3 pedidos do jogador à sua esquerda</item>
+        <item>A roda escolhe seu desafio, caso não cumpra deverá tomar 3 doses</item>
+        <item>Escolha uma pessoa da roda e beije seu pescoço por 3 segundos</item>
+        <item>A roda deverá escolher quem você irá beijar, caso não cumpra você deverá tomar uma dose</item>
+        <item>Conte a senha do seu celular</item>
+        <item>O mais tonto da roda, bebe</item>
+        <item>Diga quem você acha mais bonito na roda, os dois bebem</item>
+        <item>De um selinho em dois jogadores</item>
+        <item>Diga quem foi o seu melhor beijo</item>
+        <item>Quem é o mais vacilão da roda em sua opinião, ele deve beber</item>
+        <item>Quem está trabalhando atualmente, bebe</item>
+        <item>Quem tem celular da marca Motorola, bebe</item>
+        <item>Quem tem menos bateria no celular, bebe</item>
+        <item>Quem tem preto na roupa, bebe</item>
+        <item>Quem tem branco na roupa, bebe</item>
+        <item>Quem tem verde na roupa, bebe</item>
+        <item>Quem tem vermelho na roupa, bebe</item>
+        <item>Quem já mandou nudes, bebe</item>
+        <item>Jogue uma rodade de \"eu nunca\". Quem ja tiver feito o que vc disser,bebe </item>
+    </string-array>
+</resources>
